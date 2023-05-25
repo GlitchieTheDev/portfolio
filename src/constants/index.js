@@ -224,7 +224,7 @@ const testimonials = [
     name: "GlitchieTheDev",
     designation: "Owner",
     company: "GlitchieTheDev",
-    image: "/src/assets/logo.png",
+    image: "https://res.cloudinary.com/ddpp8h40j/image/upload/v1684995090/logo-23371808_ejhej3.png",
   },
 ];
 

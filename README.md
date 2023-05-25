@@ -1,2 +1,2 @@
 # My Portfolio
-![Visit Portfolio](https://glitchiethedev.com/)
+[Visit Portfolio](https://glitchiethedev.com/)
